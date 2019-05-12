@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/make-react-redux-demo-study0.2/build/static/css/main.34de6062.chunk.css",
+    "main.js": "/make-react-redux-demo-study0.2/build/static/js/main.47247f9b.chunk.js",
+    "main.js.map": "/make-react-redux-demo-study0.2/build/static/js/main.47247f9b.chunk.js.map",
+    "runtime~main.js": "/make-react-redux-demo-study0.2/build/static/js/runtime~main.60d8f46a.js",
+    "runtime~main.js.map": "/make-react-redux-demo-study0.2/build/static/js/runtime~main.60d8f46a.js.map",
+    "static/js/2.2eb89668.chunk.js": "/make-react-redux-demo-study0.2/build/static/js/2.2eb89668.chunk.js",
+    "static/js/2.2eb89668.chunk.js.map": "/make-react-redux-demo-study0.2/build/static/js/2.2eb89668.chunk.js.map",
+    "index.html": "/make-react-redux-demo-study0.2/build/index.html",
+    "precache-manifest.f95a74fa16920e8d78f36b78bf70607c.js": "/make-react-redux-demo-study0.2/build/precache-manifest.f95a74fa16920e8d78f36b78bf70607c.js",
+    "service-worker.js": "/make-react-redux-demo-study0.2/build/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/make-react-redux-demo-study0.2/build/static/css/main.34de6062.chunk.css.map"
+  }
+}
